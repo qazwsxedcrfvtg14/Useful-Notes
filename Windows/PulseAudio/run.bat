@@ -1,0 +1,1 @@
+sudo pulseaudio.exe -p "C:\Tools\PulseAudio\lib\pulse-1.1\modules" -nF "C:\Tools\PulseAudio\etc\pulse\default.pa"
