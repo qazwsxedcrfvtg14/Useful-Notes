@@ -15,6 +15,8 @@ https://technet.microsoft.com/en-us/sysinternals/pstools.aspx
 https://technet.microsoft.com/en-us/sysinternals/processexplorer.aspx
 ## Python
 https://www.python.org/downloads/
+## .NET Core
+https://www.microsoft.com/net/core#windowsvs2015
 ## RDPWraper
 https://github.com/stascorp/rdpwrap
 ## USB Network Gate
