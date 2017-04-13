@@ -67,3 +67,11 @@ https://openvpn.net/index.php/open-source/downloads.html
 http://www.audacityteam.org/download/windows/
 ## Core Temp
 http://www.alcpu.com/CoreTemp/
+## Sandboxie
+https://www.sandboxie.com/
+## dnSpy
+https://github.com/0xd4d/dnSpy
+## Windows 10 Virtual Desktop Enhancer
+https://github.com/sdias/win-10-virtual-desktop-enhancer
+## Audacity
+http://www.audacityteam.org
