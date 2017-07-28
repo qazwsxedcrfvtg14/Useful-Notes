@@ -75,3 +75,5 @@ https://github.com/0xd4d/dnSpy
 https://github.com/sdias/win-10-virtual-desktop-enhancer
 ## Audacity
 http://www.audacityteam.org
+## QTTabBar
+http://qttabbar.wikidot.com/
