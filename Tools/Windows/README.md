@@ -77,3 +77,5 @@ https://github.com/sdias/win-10-virtual-desktop-enhancer
 http://www.audacityteam.org
 ## QTTabBar
 http://qttabbar.wikidot.com/
+## Media Player Codec Pack
+http://www.mediaplayercodecpack.com/
