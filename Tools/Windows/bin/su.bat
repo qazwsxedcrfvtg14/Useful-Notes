@@ -1,2 +1,2 @@
 @echo off
-psexec -s cmd 2>NUL
+psexec \\::1 -s -i -d -w "%cd%" -realtime "cmd" 2>NUL
